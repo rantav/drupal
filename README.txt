@@ -15,6 +15,25 @@ websites ranging from personal weblogs to large community-driven websites. For
 more information, see the Drupal website at http://drupal.org/, and join the
 Drupal community at http://drupal.org/community.
 
+                  1
+                 000
+               0000000
+              00     00           
+            000      000          
+      000000           00         
+    000                 00        
+   000          1        00       
+  000          000        00      
+ 00           00 00        000    
+00           00   000        00   
+00          00     000       00   
+00         000       00      00   
+00         00        00      00   
+000        0000    0000     001   
+ 000          1    1       00    
+   000000000000    000000000      
+                                  
+
 Launch drupal with Cloudify: http://ranwidget.gsdev.info/widget/single/3f87e3e4-5c2f-457f-9ff7-536737908866
 
 
