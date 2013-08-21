@@ -1,4 +1,3 @@
-
 CONTENTS OF THIS FILE
 ---------------------
 
@@ -15,6 +14,9 @@ Drupal is an open source content management platform supporting a variety of
 websites ranging from personal weblogs to large community-driven websites. For
 more information, see the Drupal website at http://drupal.org/, and join the
 Drupal community at http://drupal.org/community.
+
+Launch drupal with Cloudify: http://ranwidget.gsdev.info/widget/single/3f87e3e4-5c2f-457f-9ff7-536737908866
+
 
 Legal information about Drupal:
  * Know your rights when using Drupal:
